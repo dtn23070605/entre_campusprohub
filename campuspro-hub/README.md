@@ -49,9 +49,9 @@ Search for these placeholders and replace with real info:
 
 | Placeholder | Replace with |
 |---|---|
-| `09xxxxxxxx` | Your Zalo / phone number |
+| `0900 000 000` | Your Zalo / phone number |
 | `campusprohub@gmail.com` | Real email |
-| `Hanoi · Near VNU campus` | Specific address |
+| `Near a major university campus in Hanoi` | General launch area |
 | `From 15,000₫` etc. | Your actual pricing |
 | Package prices | Confirmed VND amounts |
 
